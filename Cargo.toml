@@ -6,7 +6,7 @@ edition = "2021"
 description = "[UNDER CONSTRUCTION / RESERVED NAME]"
 readme = "README.md"
 repository = "https://github.com/piotrbajdek/moon-t"
-license = "MIT"
+license = "UPL-1.0"
 
 [profile.release]
 codegen-units = 1
